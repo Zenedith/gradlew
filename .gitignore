@@ -1,0 +1,9 @@
+.DS_Store
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+*.ids
+.idea/
+.gradle
